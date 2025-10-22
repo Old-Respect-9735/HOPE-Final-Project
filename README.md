@@ -1,4 +1,5 @@
 # HOPE-Final-Project
+Group members: Alvin Kang, Suraj Reddy Reddy Chamakura, Shikha Kathrani, Kishant Mohan
 
 Link to BOM: https://docs.google.com/spreadsheets/d/1Rpm_pfE3mdXuIPg5WMGOXxpce0Wy2xsk9B6LXBKKtQ0/edit?usp=sharing
 
